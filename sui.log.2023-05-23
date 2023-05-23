@@ -1,0 +1,21 @@
+2023-05-23T23:07:24.976152Z  INFO sui::client_commands:                              Object ID                              |  Gas Value 
+2023-05-23T23:07:24.976232Z  INFO sui::client_commands: ----------------------------------------------------------------------------------
+2023-05-23T23:07:24.976240Z  INFO sui::client_commands:  0x1fbba0e80ecdec67ba5c522bc9febb89f8bea1cf8ddc8a1eb398efe4b1ed7c50 | 10000000000
+2023-05-23T23:07:24.976247Z  INFO sui::client_commands:  0x61d1df9fc196569b7169af0e84cef1d4925e4a9651f40f35f61f863807c3110a | 10000000000
+2023-05-23T23:07:24.976252Z  INFO sui::client_commands:  0x62b9be190fd747decca6468350ffda36828c59b187859b3e0d3844e05c3ab81b | 10000000000
+2023-05-23T23:07:24.976259Z  INFO sui::client_commands:  0xfc4b47071193b5fea0dc1312d504a64bb314892b8a98df50be8a91713649a4ee | 10000000000
+2023-05-23T23:08:11.628390Z  INFO sui::client_commands:                              Object ID                              |  Gas Value 
+2023-05-23T23:08:11.628498Z  INFO sui::client_commands: ----------------------------------------------------------------------------------
+2023-05-23T23:08:11.628507Z  INFO sui::client_commands:  0x1fbba0e80ecdec67ba5c522bc9febb89f8bea1cf8ddc8a1eb398efe4b1ed7c50 | 10000000000
+2023-05-23T23:08:11.628513Z  INFO sui::client_commands:  0x61d1df9fc196569b7169af0e84cef1d4925e4a9651f40f35f61f863807c3110a | 10000000000
+2023-05-23T23:08:11.628518Z  INFO sui::client_commands:  0x62b9be190fd747decca6468350ffda36828c59b187859b3e0d3844e05c3ab81b | 10000000000
+2023-05-23T23:08:11.628524Z  INFO sui::client_commands:  0x8deccd6b8e8959a3f5ca1aba9b648d7dec0d29dacddd893cf6e078b0d0307226 | 10000000000
+2023-05-23T23:08:11.628529Z  INFO sui::client_commands:  0xfc4b47071193b5fea0dc1312d504a64bb314892b8a98df50be8a91713649a4ee | 10000000000
+2023-05-23T23:08:23.099075Z  INFO sui::client_commands:                              Object ID                              |  Gas Value 
+2023-05-23T23:08:23.099189Z  INFO sui::client_commands: ----------------------------------------------------------------------------------
+2023-05-23T23:08:23.099197Z  INFO sui::client_commands:  0x1fbba0e80ecdec67ba5c522bc9febb89f8bea1cf8ddc8a1eb398efe4b1ed7c50 | 10000000000
+2023-05-23T23:08:23.099203Z  INFO sui::client_commands:  0x29dcce2041639b3e175b1842a59a130baf095f37d0868b6cea663dc3e8bcf877 | 10000000000
+2023-05-23T23:08:23.099210Z  INFO sui::client_commands:  0x61d1df9fc196569b7169af0e84cef1d4925e4a9651f40f35f61f863807c3110a | 10000000000
+2023-05-23T23:08:23.099216Z  INFO sui::client_commands:  0x62b9be190fd747decca6468350ffda36828c59b187859b3e0d3844e05c3ab81b | 10000000000
+2023-05-23T23:08:23.099221Z  INFO sui::client_commands:  0x8deccd6b8e8959a3f5ca1aba9b648d7dec0d29dacddd893cf6e078b0d0307226 | 10000000000
+2023-05-23T23:08:23.099226Z  INFO sui::client_commands:  0xfc4b47071193b5fea0dc1312d504a64bb314892b8a98df50be8a91713649a4ee | 10000000000
