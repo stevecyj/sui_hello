@@ -1,5 +1,4 @@
-module hello_world {
-  // module 內容
+module hello_world::hello_world {
 
   // imports
 
